@@ -3,7 +3,7 @@
 <head>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>My Biography</title>
+ <title>Shaakthi's Portfolio</title>
  <style>
  body {
  font-family: Arial, sans-serif;
@@ -26,7 +26,7 @@
 <body>
  <h1>My Biography</h1>
  <img src="myphoto.jpg" alt="My Photo">
- <p>Hello! My name is Likitha. I am a Student at VIT.</p>
- <p>[I am a Mtech integrated 3rd year student]</p>
+ <p>Hello! My name is Shaakthi. I am doing 3rd year in Int.Mtech in CSE with Data Science in VIT.</p>
+ <p>[Contact: shaakthi.a2022@vitstudent.ac.in - +91 8618068307]</p>
 </body>
 </html>
