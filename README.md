@@ -25,7 +25,7 @@
 </head>
 <body>
  <h1>My Biography</h1>
- <img src="C:\Users\shaak\OneDrive\Desktop\myphoto.jpg" alt="My Photo">
+ <img src=<img src="myphoto.jpg" alt="My Photo" width="400" height="300">
  <p>Hello! My name is Shaakthi. I am doing 3rd year in Int.Mtech in CSE with Data Science in VIT.</p>
  <p>[Contact: shaakthi.a2022@vitstudent.ac.in - +91 8618068307]</p>
 </body>
